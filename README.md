@@ -39,7 +39,7 @@ A modern, minimal, and fast pastebin-like web app built with React, Redux Toolki
    ```
 
 4. **Open in your browser:**
-   Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal)
+   Visit [https://paste-app-iota-five.vercel.app/](https://paste-app-iota-five.vercel.app/) (or the port shown in your terminal)
 
 ## Folder Structure
 
